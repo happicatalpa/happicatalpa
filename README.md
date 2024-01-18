@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Gina
+### Hi there 👋 my name is manyu
 
 <!--
 **happicatalpa/happicatalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
